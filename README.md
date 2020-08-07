@@ -12,8 +12,8 @@ It works with the IFTTT Webhooks (if you don't know what is IFTTT, click [here](
 5. Go to the Webhooks section and copy your Webhook Key.
 
 ## Configure the app
-1. After cloning this repository, navigate to app/src/main/assets and create a new file called app_config.properties
-2. Copy the content of app_config_sample.properties and replace the values with the ones from your IFTTT configuration.
+1. After cloning this repository, navigate to **app/src/main/assets** and create a new file called **app_config.properties**
+2. Copy the content of **app_config_sample.properties** and replace the values with the ones from your IFTTT configuration.
 3. Run the app on your TV!
 
 ## Known issues
